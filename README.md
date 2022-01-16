@@ -1,2 +1,2 @@
 # Glowing-Buttons
-The Dots And Bars (Inspired By Pranjal Bhadu or bhadupranjal).
+The Glowing or Neon Buttons (Inspired By Pranjal Bhadu or bhadupranjal).
